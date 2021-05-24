@@ -1,0 +1,7 @@
+# tor standalone configuration
+
+HTTPProxy 127.0.0.1:1080
+
+DataDirectory .\Data\Tor
+GeoIPFile .\Data\Tor\geoip
+GeoIPv6File .\Data\Tor\geoip6
