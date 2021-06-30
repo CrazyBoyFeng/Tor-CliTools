@@ -1,8 +1,8 @@
-# Data
-Data/Tor/cached*
-Data/Tor/lock
-Data/Tor/state
-Data/Tor/unverified-microdesc-consensus
+# Tor documents
+Docs/
+
+# Personal data
+Data/
 
 # Binary
 Tor/PluggableTransports/obfs4proxy.exe
