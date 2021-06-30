@@ -1,0 +1,11 @@
+# Data
+Data/Tor/cached*
+Data/Tor/lock
+Data/Tor/state
+Data/Tor/unverified-microdesc-consensus
+
+# Binary
+Tor/PluggableTransports/obfs4proxy.exe
+Tor/PluggableTransports/
+Tor/tor.exe
+Tor/
